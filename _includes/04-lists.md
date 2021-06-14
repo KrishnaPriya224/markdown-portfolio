@@ -3,20 +3,20 @@
     <h1> My Favourites </h1>
   </head>
   <body>
-    <ol>
+    <ul type = "disc">
       <li>Books</li>
       <li>Ride</li>
       <li>Walk</li>
-       <ol>      
+       <ul>      
           <li>Home</li>
           <li>Laptop</li>
           <li>Phone</li>        
-          <ol>
+          <ul>
             <li>Car</li>
             <li>Beach</li>
             <li>Friends</li>
-        </ol>
-      </ol>
-    </ol>
+        </ul>
+      </ul>
+    </ul>
   </body>
 </html>
