@@ -1,1 +1,22 @@
-Replace this with a list of your favorite things.
+<html>
+  <head>
+    <h1> My Favourites </h1>
+  </head>
+  <body>
+    <ol>
+      <li>Books</li>
+      <li>Ride</li>
+      <li>Walk</li>
+       <ol>      
+          <li>Home</li>
+          <li>Laptop</li>
+          <li>Phone</li>        
+          <ol>
+            <li>Car</li>
+            <li>Beach</li>
+            <li>Friends</li>
+        </ol>
+      </ol>
+    </ol>
+  </body>
+</html>
