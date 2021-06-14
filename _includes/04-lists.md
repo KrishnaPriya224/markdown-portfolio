@@ -1,5 +1,4 @@
 <html>
-  
   <body>
     <h1> My Favourites </h1>
     <ol>
