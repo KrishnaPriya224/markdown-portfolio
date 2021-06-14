@@ -1,10 +1,5 @@
-<html>
-  <body>
-    <h1> My Favourites </h1>
-    <ol>
-      <li> Books </li>
-      <li> Ride </li>
-      <li> Walk </li>
-    </ol>
-  </body>
-</html>
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
